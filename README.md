@@ -1,13 +1,15 @@
 ## Android 弹性下拉 ##
 
+![](https://github.com/lvkaixuan/ReboundLayout/blob/master/Android下拉.gif)
+
  - 使用方法
  
 ```
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		    }
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
 }
 ```
 
