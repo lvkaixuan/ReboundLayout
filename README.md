@@ -18,11 +18,11 @@ compile 'com.github.lvkaixuan:ReboundLayout:v1.0'
  - 布局中使用
 
 ```
-	<com.lkx.library.ReboundLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+<com.lkx.library.ReboundLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent">
         ...
-	</com.lkx.library.ReboundLayout>
+</com.lkx.library.ReboundLayout>
 ```
 
  - 注意事项
